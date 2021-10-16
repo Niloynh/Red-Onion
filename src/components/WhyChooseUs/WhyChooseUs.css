@@ -1,0 +1,49 @@
+.card-full {
+    border: 1px solid #fff;
+    border-radius: 10px;
+    transition: .3s;
+}
+
+.card-full:hover {
+    border: 1px solid #fff;
+    border-radius: 10px;
+    box-shadow: 1px 3px 11px 5px rgba(33, 33, 33, .2);
+    border-radius: 10px;
+}
+
+.logo-container {
+    width: 20%;
+
+}
+
+.logo-container img {
+    width: 60px;
+    color: chocolate;
+}
+
+.text-container {
+    width: 80%;
+
+}
+
+.seemore-div {
+    display: inline-block;
+    color: cornflowerblue;
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+.font-icoN {
+    padding: 4px 7px;
+    border-radius: 10px;
+    background-color: #7ac948;
+    color: white;
+}
+
+.chooseUs {
+    font-size: 45px;
+}
+
+.p-text {
+    font-size: 18px;
+}

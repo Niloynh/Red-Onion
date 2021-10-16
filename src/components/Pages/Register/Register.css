@@ -1,0 +1,38 @@
+.register-container {
+    background-image: url('../../../images/bannerbackground.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 90px;
+
+
+}
+
+
+.form-container img {
+    width: 20%;
+}
+
+.form-container input {
+    width: 43%;
+    padding: 16px;
+    margin: auto;
+}
+
+.form-btn {
+    width: 43%;
+    background-color: rgb(255 57 96);
+    padding: 13px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+.form-container a {
+    text-decoration: none;
+    color: rgb(255 57 96);
+    font-weight: 600;
+    font-size: 18px;
+}

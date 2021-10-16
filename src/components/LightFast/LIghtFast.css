@@ -1,0 +1,28 @@
+.light-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.light-text {
+    width: 50%;
+}
+
+.light-text h1 {
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.light-text p {
+    font-size: 18px;
+}
+
+.light-text h2 {
+    margin-bottom: 20px;
+}
+
+.light-img img {
+    width: 100%;
+}

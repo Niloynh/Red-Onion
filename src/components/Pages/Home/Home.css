@@ -1,0 +1,30 @@
+.banner-container {
+    background-image: url('../../../images/bannerbackground.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px;
+    margin-top: 15px;
+}
+
+.banner-text {
+    text-align: center;
+
+}
+
+.input-field {}
+
+.banner-text input {
+    display: inline-block;
+    width: 50%;
+    border: 1px solid #fff;
+
+}
+
+.banner-btn {
+    background-color: rgb(255, 57, 96);
+    color: #fff;
+    padding: 8px 35px;
+    border-radius: 10px;
+    border: 1px solid rgb(255, 57, 96)
+}

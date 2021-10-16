@@ -1,0 +1,28 @@
+.header-container {
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #fff;
+}
+
+.logo-img img {
+    width: 120px;
+}
+
+.login-css {}
+
+.login-css a {
+    margin-right: 40px;
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+}
+
+.regular-btn {
+    background-color: rgb(255, 57, 96);
+    color: #fff;
+    padding: 8px 35px;
+    border-radius: 20px;
+    border: 1px solid rgb(255, 57, 96);
+}

@@ -1,0 +1,15 @@
+.footer-container {
+    background-color: #1d1e22;
+}
+
+.footer-container img {
+    width: 80%;
+}
+
+.footer-container hr {
+    color: white;
+}
+
+.copyright {
+    width: 30%;
+}
