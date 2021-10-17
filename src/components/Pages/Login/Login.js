@@ -62,7 +62,7 @@ const Login = () => {
     }
 
  return (
-        <div className="container register-container mt-3">
+        <div className=" register-container mt-3">
         <div className="text-center form-container">
             <img src={logo1} alt=""className="mb-5" />
             <form onSubmit={handleFormReload}>

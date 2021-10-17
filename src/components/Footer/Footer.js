@@ -3,7 +3,7 @@ import logo1 from '../../images/logo.png';
 import './Footer.css';
 const Footer = () => {
     return (
-        <div className="container footer-container mt-5 py-5">
+        <div className="footer-container mt-5 py-5">
             <div className="row">
                 <div className="col-lg-3">
                     <img className=" p-5" src={logo1} alt="" />

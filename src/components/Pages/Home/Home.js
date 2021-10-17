@@ -7,7 +7,7 @@ import './Home.css';
 const Home = () => {
     return (
         <div>
-            <div className="banner-container container">
+            <div className="banner-container ">
                 <div className="banner-text">
                         <h1>Best Food Waiting For Your  Belly</h1>
                     <div className="input-field">

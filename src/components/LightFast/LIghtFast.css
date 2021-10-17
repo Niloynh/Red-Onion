@@ -6,7 +6,7 @@
 }
 
 .light-text {
-    width: 50%;
+    width: 57%;
 }
 
 .light-text h1 {
@@ -24,5 +24,6 @@
 }
 
 .light-img img {
+    margin-left: 20px;
     width: 100%;
 }
